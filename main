@@ -1,55 +1,16 @@
 
 <head>
-    <title>Ria's Top Five Favourite People</title>
+    <title>Welcome to my very own corner of the internet</title>
 </head>
 <body bgcolor=lightblue text= "#a84832" link="#fff1c1" vlink="#993b26" alink="#32a898">
-<br> <a href = "#p1"> Go to first favourite person! </a>
-<br> <a href = "#p2">Go to my first favourite person! </a>
-<br> <a href = "#p3">Go to my third favourite person! </a>
-<br> <a href = "#p4"> Go to my fourth favourite person! </a>
-<br> <a href = "#p5">Go to my fifth favourite person!</a>
+<br> <a href = "#p1"> Welcome </a>
+<br> <a href = "#p2"> Blog </a>
+<br> <a href = "#p3">Contact me! </a>
+<br> <a href = "#p4"> Links </a>
+
 <br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br>
 <center> 
-<h1>Ria's Top Five Favourite People</h1>
-</center>
-    <table border="25" bordercolor="purple" align="center">
-	<tr>
-<td id= "p1"style="background-color:red;color:white;">I. Scarlett Johansson</td>
-<td id = "p2"style="background-color:orange;color:white;">II. Ryan Reynolds</td>
-<td id="p3"style="background-color:teal;color:white;">III. Robert Downey Jr. </td>
-<td id="p4"style="background-color:green;color:white;">IV. Florence Pugh </td>
-<td id="p5" style="background-color:pink;color:white;">V. Brie Larson </td>
-</tr>
-<tr> 
-<td> <img src="Scarlett-johansson.jpg" alt="Picture of Scarlett Johansson"  border=15 vspace=30 hspace=30  align="center"> </img> </td>
-<td> <img src="ryan-reynolds.jpg" alt="Picture of Ryan Reynolds"  border=15 vspace=30 hspace=30 align="center" ></img> </td>
-<td> <img src="robert-downey.jpg" alt="Picture of Robert Downey Jr" border=15 vspace=30 hspace=30align="center" > </img> </td>
-<td> <img src="Pugh.jpg"  alt="Picture of Florence Pugh"  border=15 vspace=30 hspace=30 align="center"> </img> </td>
-<td> <img src="Brie.jpg"  alt="Picture of Brie Larson" border=15 vspace=30 hspace=30 align="center"> </img> </td>
-</tr>
-<tr>
-<td style="background-color:yellowgreen;color:white;"> November 22, 1984 </td>
-<td style="background-color:purple;color:white;"> October 23, 1976 </td>
-<td style="background-color:darkblue;color:white;"> April 4, 1965 </td>
-<td style="background-color:brown;color:white;"> January 3, 1996 </td>
-<td style="background-color:gold;color:white;"> October 1, 1989</td>
-</tr>
-<tr>
-<td style="background-color:fuchsia;color:white;">New York, United States </td>
-<td style="background-color:94fc03;color:white;">Vancouver, Canada</td>
-<td style="background-color:darkgreen;color:white;">New York, United States</td>
-<td style="background-color:indigo;color:white;">Oxford, United Kingdom</td>
-<td style="background-color:olive;color:white;">California, United States </td>
-</tr>
-<tr>
-<td style="background-color:fff1c1" > <a href="https://en.wikipedia.org/wiki/Scarlett_Johansson">Bio Page</a> </td>
-<td style="background-color:fc8403"> <a href="https://en.wikipedia.org/wiki/Ryan_Reynolds"> Bio Page</a></td>
-<td style="background-color:f1f1ff"><a href="https://en.wikipedia.org/wiki/Robert_Downey_Jr"> Bio Page</a></td>
-<td style="background-color:olive"> <a href="https://en.wikipedia.org/wiki/Florence_Pugh"> Bio Page</a></td>
-<td style="background-color:32a852"> <a href="https://en.wikipedia.org/wiki/Brie_Larson"> Bio Page </td>
-</tr>
-    </table>
 </body>
